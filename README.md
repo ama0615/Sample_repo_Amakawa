@@ -13,7 +13,8 @@
 - OGPの作成
 - 作品本体のURL
 
-#### デザイン案 Bさん
+#### デザイン案 kato
+kato made the design.
 
 
 #### 機能案 Cさん
