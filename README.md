@@ -12,7 +12,7 @@
 - 作品名
 - OGPの作成
 - 作品本体のURL
-
+- スキルセット
 #### デザイン案 kato
 kato made the design.
 
